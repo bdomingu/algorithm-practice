@@ -1,3 +1,4 @@
+/* Hash Set: Time Complexity = O(N) Space Complexity: O(1) because hash set can store at most 26 characters */
 function checkIfPangram(sentence) {
     const sentenceSet = new Set()
 
