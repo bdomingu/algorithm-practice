@@ -1,3 +1,4 @@
+/* Binary Search Approach: Time Complexity = O(logN) Space Complexity O(1)  */
 function sqrt(x) {
    if (x < 2){
     return x;
